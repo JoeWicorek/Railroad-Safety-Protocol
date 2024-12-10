@@ -1,4 +1,4 @@
-# Railroad Safety-Protocol Project 
+# Railroad Safety-Protocol App
 This project investigates railroad safety protocols, focusing on understanding the trends, challenges, and potential areas for improvement. By analyzing historical data, visualizing trends, and examining the impact of various safety measures, the project aims to contribute to a safer and more efficient railway system.
 
 🚦 Project Overview
