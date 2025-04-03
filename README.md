@@ -53,4 +53,4 @@ Contributions are welcome! Fork the repository, create a feature branch, and sub
 📜 License
 This project is licensed under the MIT License. For details, refer to the LICENSE file in the repository.
 
-ShinyApp Link: https://klebb24.shinyapps.io/info201ProjectBD6/
+ShinyApp Link: https://jwiz.shinyapps.io/info201ProjectBD6/
